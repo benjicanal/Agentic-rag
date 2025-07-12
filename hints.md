@@ -1,0 +1,5 @@
+- https://youtu.be/Arf7UwWjGyc?feature=shared to use Langchain and APIs in RAG production ready
+- Use vector store and key word for searching relevant documents 
+- Top vector databases : https://www.datacamp.com/blog/the-top-5-vector-databases
+- https://www.youtube.com/watch?v=38aMTXY2usU&list=PLAMHV77MSKJ7Pn_OwuGzbDPs_MOibBRP-
+- https://github.com/langchain-ai/rag-from-scratch/tree/main 
